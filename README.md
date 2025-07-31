@@ -1,10 +1,7 @@
 <h1 align="center">👋 Hello World! I'm Antony Saleeb</h1>
 
-<h3 align="center">🚀 Flutter Mobile Applications Developer</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile%20Developer-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cross%20Platform-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Flutter+Mobile+Applications+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,17 +16,10 @@
 
 ---
 
-### 📦 Tech Toolbox
+### 💻 Tech Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,linux,figma,photoshop&perline=6" />
 </p>
 
 ---
