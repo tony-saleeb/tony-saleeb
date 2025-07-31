@@ -46,18 +46,19 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/tony-saleeb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/tony-saleeb" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tonysaleeb23@gmail.com" target="_blank">
+  <a href="mailto:tonysaleeb23@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
