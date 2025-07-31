@@ -59,6 +59,17 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
   </a>
 </p>
 
+<!-- snake -->
+<div align="center">
+
+</div>
+
+<!-- counter -->
+<div align="center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+</div>
+
 
 
 
