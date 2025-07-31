@@ -67,9 +67,9 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 <!-- counter -->
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 </div>
 
+![snake gif](https://github.com/tony-saleeb/tony-saleeb/blob/output/github-snake-dark.svg)
 
 
 
