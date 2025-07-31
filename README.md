@@ -63,13 +63,13 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 <div align="center">
 
 </div>
-![snake gif](https://github.com/tony-saleeb/tony-saleeb/blob/output/github-snake-dark.svg)
 
 <!-- counter -->
 <div align="center">
 
 </div>
 
+![snake gif](https://github.com/tony-saleeb/tony-saleeb/blob/output/github-snake-dark.svg)
 
 
 
