@@ -47,7 +47,7 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 <p align="center">
   <a href="https://github.com/tony-saleeb" target="_blank" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github--v1.png" alt="GitHub" width="40" height="40" style="background-color:#000000; border-radius:50%; padding:5px;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a" target="_blank" title="LinkedIn">
@@ -58,6 +58,7 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
