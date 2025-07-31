@@ -46,14 +46,19 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/tony-saleeb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://github.com/tony-saleeb" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/ios-filled/40/000000/github.png" alt="GitHub"/><br/>
+    <sub><b>GitHub</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn"/><br/>
+    <sub><b>LinkedIn</b></sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:tonysaleeb23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluency/40/gmail.png" alt="Gmail"/><br/>
+    <sub><b>Email Me</b></sub>
   </a>
 </p>
 
