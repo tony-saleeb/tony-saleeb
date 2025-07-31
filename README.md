@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World! I'm Antony Saleeb</h1>
+<h1 align="center">👋 Hello World! I'm Anthony Saleeb</h1>
 
 <!-- Animated Title -->
 <p align="center">
