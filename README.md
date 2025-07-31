@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 **Focused** on crafting performant and beautiful mobile applications using Flutter.
-- 📱 Turning creative designs into smooth cross-platform apps.
-- 🧪 Currently exploring Firebase, animations, and custom UI components.
-- 🎓 Always learning & improving — because perfect code is written twice 😉.
-- 🌍 Based in Egypt, building apps for the world.
+- 🎯 **Focused** on crafting performant and beautiful mobile applications using Flutter.  
+- 📱 Turning creative designs into smooth cross-platform apps.  
+- 🧪 Currently exploring Firebase, animations, and custom UI components.  
+- 🎓 Always learning & improving — because perfect code is written twice 😉  
+- 🌍 Based in Egypt, building apps for the world.  
 
 ---
 
@@ -54,7 +54,7 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/AntonySaleeb"><img src="https://img.shields.io/badge/GitHub-AntonySaleeb-181717?style=flat-square&logo=github" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Send_Message-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://github.com/tony-saleeb"><img src="https://img.shields.io/badge/GitHub-tony--saleeb-181717?style=flat-square&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a"><img src="https://img.shields.io/badge/LinkedIn-Antony%20Saleeb-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tonysaleeb23@gmail.com"><img src="https://img.shields.io/badge/Gmail-tonysaleeb23@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
