@@ -46,7 +46,14 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/tony-saleeb"><img src="https://img.shields.io/badge/GitHub-tony--saleeb-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a"><img src="https://img.shields.io/badge/LinkedIn-Antony%20Saleeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tonysaleeb23@gmail.com"><img src="https://img.shields.io/badge/Gmail-tonysaleeb23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/tony-saleeb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tonysaleeb23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+
