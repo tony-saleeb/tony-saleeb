@@ -20,13 +20,8 @@
 
 ### 💻 Tech Toolbox
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,linux,figma,photoshop&perline=5&theme=light" 
-    alt="Tech Stack" 
-    style="pointer-events: none; user-select: none;" 
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,linux,figma,photoshop&perline=5&theme=light" />
+
 
 
 ---
