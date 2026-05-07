@@ -51,9 +51,13 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/tony-saleeb" target="_blank" title="GitHub">
-    <img src="https://img.icons8.com/ios-filled/100/ffffff/github--v1.png" alt="GitHub" width="60" height="60" style="background-color:white; border-radius:50%; padding:10px;" />
-  </a>
+<a href="https://github.com/tony-saleeb" target="_blank" title="GitHub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/100/ffffff/github--v1.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/ios-filled/100/000000/github--v1.png" />
+    <img src="https://img.icons8.com/ios-filled/100/000000/github--v1.png" alt="GitHub" width="60" height="60" />
+  </picture>
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/color/100/linkedin.png" alt="LinkedIn" width="60" height="60"/>
