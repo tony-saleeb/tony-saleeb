@@ -33,10 +33,10 @@
 
 ### 🧠 Currently Learning
 
-- 🔹 Clean Architecture in Flutter  
-- 🔹 Advanced Firebase Integrations  
-- 🔹 Animation packages like Rive & Lottie  
-- 🔹 CI/CD for mobile apps (Codemagic, GitHub Actions)
+-  Clean Architecture in Flutter  
+-  Advanced Firebase Integrations  
+-  Animation packages like Rive & Lottie  
+-  CI/CD for mobile apps (Codemagic, GitHub Actions)
 
 ---
 
