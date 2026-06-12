@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 **Focused** on crafting performant and beautiful mobile applications using Flutter.  
-- 📱 Turning creative designs into smooth cross-platform apps.  
-- 🧪 Currently exploring Firebase, animations, and custom UI components.  
-- 🎓 Always learning & improving — because perfect code is written twice 😉  
-- 🌍 Based in Egypt, building apps for the world.  
+-  **Focused** on crafting performant and beautiful mobile applications using Flutter.  
+-  Turning creative designs into smooth cross-platform apps.  
+-  Currently exploring Firebase, animations, and custom UI components.  
+-  Always learning & improving — because perfect code is written twice 😉  
+-  Based in Egypt, building apps for the world.  
 
 ---
 
