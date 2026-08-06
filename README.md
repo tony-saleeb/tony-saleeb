@@ -10,11 +10,11 @@
 
 ###  About Me
 
--  **Focused** on crafting performant and beautiful mobile applications using Flutter.  
--  Turning creative designs into smooth cross-platform apps.  
--  Currently exploring Firebase, animations, and custom UI components.  
--  Always learning & improving — because perfect code is written twice 😉  
--  Based in Egypt, building apps for the world.  
+- **Full-stack developer** building real-time and AI-enhanced applications, end to end.
+- Comfortable across the stack: Next.js/React on the frontend, FastAPI/Firebase/Supabase on the backend, Flutter for mobile.
+- Built a real-time multiplayer quiz platform (Next.js + Supabase Realtime) used live by ~80 concurrent players.
+- Graduation project: an AI-enhanced fractal image compression system (CNN, attention mechanisms, quad-tree partitioning) — 7,167x compression at 40.57 dB PSNR.
+- Based in Cairo, Egypt — open to full-stack, mobile, and applied AI roles.
 
 ---
 
