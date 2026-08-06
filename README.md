@@ -20,12 +20,7 @@
 
 ###  Tech Toolbox
 
-<p align="center" style="pointer-events: none; user-select: none;">
-  <img 
-    src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,linux,figma,photoshop&perline=5&theme=light" 
-    alt="Tech Stack"
-  />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,flutter,dart,python,fastapi,firebase,supabase,androidstudio,vscode,git,github,linux,figma&perline=7&theme=light)
 
 
 
