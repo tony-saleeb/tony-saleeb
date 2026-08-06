@@ -2,7 +2,7 @@
 
 <!-- Animated Title -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Mobile+Developer+%7C+Next.js+%C2%B7+React+%C2%B7+Flutter+%7C+Building+AI-enhanced+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Mobile+Developer;Next.js+%2B+React+%2B+Flutter;Building+AI-enhanced+apps" alt="Typing SVG" />
 </p>
 
 
