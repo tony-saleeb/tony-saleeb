@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 -  **Focused** on crafting performant and beautiful mobile applications using Flutter.  
 -  Turning creative designs into smooth cross-platform apps.  
@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 Tech Toolbox
+###  Tech Toolbox
 
 <p align="center" style="pointer-events: none; user-select: none;">
   <img 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧠 Currently Learning
+###  Currently Learning
 
 -  Clean Architecture in Flutter  
 -  Advanced Firebase Integrations  
@@ -40,7 +40,7 @@
 
 ---
 
-### 🌟 Let's Build the Future
+###  Let's Build the Future
 
 > "Great apps don’t just work well, they feel alive."
 
@@ -48,7 +48,7 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://github.com/tony-saleeb" target="_blank">
