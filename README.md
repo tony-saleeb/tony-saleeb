@@ -28,10 +28,10 @@
 
 ###  Currently Learning
 
--  Clean Architecture in Flutter  
--  Advanced Firebase Integrations  
--  Animation packages like Rive & Lottie  
--  CI/CD for mobile apps (Codemagic, GitHub Actions)
+- Deepening JavaScript/React fundamentals through hands-on practice
+- Next.js internals: App Router, SSR/SSG/ISR, API routes
+- Backend fundamentals: REST API design, auth flows, database modeling
+- CI/CD pipelines for full-stack apps (GitHub Actions)
 
 ---
 
