@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="308" viewBox="0 0 880 308">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="328" viewBox="0 0 880 328">
   <defs>
     <linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="132.89603" y1="614.12347" x2="571.94025" y2="757.13959"><stop offset="0" stop-color="#D5D5D5"/><stop offset="1" stop-color="white"/></linearGradient><linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="1001.8382" y1="675.44446" x2="861.51593" y2="557.45819"><stop offset="0" stop-color="#3985FE"/><stop offset="1" stop-color="#B3D2FC"/></linearGradient><linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="1266.8458" y1="745.44385" x2="1078.4172" y2="571.43286"><stop offset="0" stop-color="#002AE7"/><stop offset="1" stop-color="#2F89FF"/></linearGradient><linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="1164.3633" y1="622.35284" x2="1054.9674" y2="526.62378"><stop offset="0" stop-color="#3890FE"/><stop offset="1" stop-color="#8FBFFD"/></linearGradient><linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="689.93744" y1="841.10706" x2="679.93097" y2="757.16296"><stop offset="0" stop-color="#358CFE"/><stop offset="1" stop-color="#6BA9FD"/></linearGradient><linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="1426.7026" y1="682.30963" x2="1201.0457" y2="722.31348"><stop offset="0" stop-color="#0045FF"/><stop offset="1" stop-color="#1A84FF"/></linearGradient><linearGradient id="gradient_6" gradientUnits="userSpaceOnUse" x1="925.77051" y1="511.50531" x2="755.88983" y2="387.11261"><stop offset="0" stop-color="#ADCEFB"/><stop offset="1" stop-color="#FFFFFD"/></linearGradient><linearGradient id="gradient_7" gradientUnits="userSpaceOnUse" x1="1347.3213" y1="453.20734" x2="1221.9471" y2="337.31845"><stop offset="0" stop-color="#0046FF"/><stop offset="1" stop-color="#297FFE"/></linearGradient><linearGradient id="gradient_8" gradientUnits="userSpaceOnUse" x1="1145.7509" y1="439.9303" x2="1044.131" y2="356.08591"><stop offset="0" stop-color="#327FFE"/><stop offset="1" stop-color="#80B2FD"/></linearGradient><linearGradient id="gradient_9" gradientUnits="userSpaceOnUse" x1="979.16791" y1="478.08884" x2="835.20789" y2="404.63812"><stop offset="0" stop-color="#7AAEFC"/><stop offset="1" stop-color="#B8D4FC"/></linearGradient>
-    <linearGradient id="panelBg" x1="0" y1="0" x2="880" y2="308" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panelBg" x1="0" y1="0" x2="880" y2="328" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0e1420"/>
       <stop offset="0.42" stop-color="#080b12"/>
       <stop offset="1" stop-color="#05070c"/>
@@ -47,24 +47,24 @@
       <feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.045 0"/>
     </filter>
     <clipPath id="round">
-      <rect width="880" height="308" rx="20"/>
+      <rect width="880" height="328" rx="20"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#round)">
-    <rect width="880" height="308" fill="url(#panelBg)"/>
-    <rect width="880" height="308" fill="url(#orbA)"/>
-    <rect width="880" height="308" fill="url(#orbB)"/>
-    <rect width="880" height="308" fill="url(#orbC)"/>
-    <rect width="880" height="308" fill="url(#dots)"/>
-    <rect width="880" height="308" fill="url(#sheen)"/>
-    <rect width="880" height="308" filter="url(#grain)" opacity="0.55"/>
+    <rect width="880" height="328" fill="url(#panelBg)"/>
+    <rect width="880" height="328" fill="url(#orbA)"/>
+    <rect width="880" height="328" fill="url(#orbB)"/>
+    <rect width="880" height="328" fill="url(#orbC)"/>
+    <rect width="880" height="328" fill="url(#dots)"/>
+    <rect width="880" height="328" fill="url(#sheen)"/>
+    <rect width="880" height="328" filter="url(#grain)" opacity="0.55"/>
 
-    <rect x="0" y="0" width="4" height="308" fill="url(#accent)"/>
+    <rect x="0" y="0" width="4" height="328" fill="url(#accent)"/>
 
-    <text x="620" y="230" fill="#e9edf5" fill-opacity="0.035" font-family="Georgia, Times New Roman, serif" font-size="168" font-weight="500" letter-spacing="-6">AS</text>
+    <text x="680" y="250" fill="#e9edf5" fill-opacity="0.028" font-family="Georgia, Times New Roman, serif" font-size="150" font-weight="500" letter-spacing="-6">AS</text>
 
-    <path d="M28 22h22M28 22v22M852 22h-22M852 22v22M28 286h22M28 286v-22M852 286h-22M852 286v-22" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="1.25" fill="none"/>
+    <path d="M28 22h22M28 22v22M852 22h-22M852 22v22M28 306h22M28 306v-22M852 306h-22M852 306v-22" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="1.25" fill="none"/>
 
     <text x="44" y="48" fill="#3b9dff" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="4.2">01  /  CONNECT</text>
     <g transform="translate(724, 36)">
@@ -85,7 +85,7 @@
     <line x1="44" y1="64" x2="836" y2="64" stroke="#e9edf5" stroke-opacity="0.08" stroke-width="1"/>
     <line x1="44" y1="64" x2="210" y2="64" stroke="url(#accent)" stroke-opacity="0.7" stroke-width="1.5"/>
 
-    <g transform="translate(42.61 78.21) scale(0.06859)"><path d="M209.616 633.822C213.821 626.598 220.235 617.562 224.966 610.488L253.212 568.214L342.769 433.664L484.55 220.62C508.238 184.906 531.977 147.525 556.128 112.383C565.4 124.747 574.977 139.283 583.796 152.131L626.52 214.348C664.659 269.75 702.353 325.458 739.598 381.466C735.848 384.516 731.53 388.93 727.988 392.359C720.522 401.723 713.78 411.237 708.163 421.843C707.276 423.517 706.263 425.835 705.314 427.342C693.935 455.85 691.9 470.026 689.689 500.174L682.742 488.44C676.501 479.098 666.026 462.927 660.933 453.268C651.386 440.359 635.708 413.491 626.635 399.104C603.558 362.095 580.029 325.369 556.053 288.936C547.42 303.09 536.411 319.168 527.274 333.255L459.591 436.78C457.415 436.788 456.085 437.011 454.374 438.418C446.229 445.109 438.073 452.081 429.94 458.774L375.227 503.421L221.535 626.276C218.935 628.379 212.21 634.896 209.616 633.822Z" fill="#F4F4F4"/>
+    <g transform="translate(42.61 86.21) scale(0.06859)"><path d="M209.616 633.822C213.821 626.598 220.235 617.562 224.966 610.488L253.212 568.214L342.769 433.664L484.55 220.62C508.238 184.906 531.977 147.525 556.128 112.383C565.4 124.747 574.977 139.283 583.796 152.131L626.52 214.348C664.659 269.75 702.353 325.458 739.598 381.466C735.848 384.516 731.53 388.93 727.988 392.359C720.522 401.723 713.78 411.237 708.163 421.843C707.276 423.517 706.263 425.835 705.314 427.342C693.935 455.85 691.9 470.026 689.689 500.174L682.742 488.44C676.501 479.098 666.026 462.927 660.933 453.268C651.386 440.359 635.708 413.491 626.635 399.104C603.558 362.095 580.029 325.369 556.053 288.936C547.42 303.09 536.411 319.168 527.274 333.255L459.591 436.78C457.415 436.788 456.085 437.011 454.374 438.418C446.229 445.109 438.073 452.081 429.94 458.774L375.227 503.421L221.535 626.276C218.935 628.379 212.21 634.896 209.616 633.822Z" fill="#F4F4F4"/>
     <path d="M699.364 425.581C702.495 423.952 703.519 421.958 705.469 419.113C707.026 422.621 706.376 422.875 704.346 426.305C704.672 426.702 704.916 427.103 705.314 427.342C693.935 455.85 691.9 470.026 689.689 500.174L682.742 488.44C683.064 486.654 683.293 476.833 683.54 473.918C684.619 461.224 687.098 452.933 691.337 441.048C694.109 435.012 695.961 431.27 699.364 425.581Z" fill="#0C5AF5"/>
     <path d="M660.933 453.268C664.315 454.727 664.5 456.682 667.034 459.318C668.108 458.983 668.603 458.799 669.597 458.321L670.478 457.894L671.62 458.32C669.658 460.18 668.925 460.228 668.471 462.527C672.727 460.598 676.309 460.252 680.694 457.567C687.006 453.702 686.315 444.553 691.337 441.048C687.098 452.933 684.619 461.224 683.54 473.918C683.293 476.833 683.064 486.654 682.742 488.44C676.501 479.098 666.026 462.927 660.933 453.268Z" fill="#9BC5FC"/>
     <path d="M699.364 425.581C705.732 413.655 717.743 400.95 727.988 392.359C720.522 401.723 713.78 411.237 708.163 421.843C707.276 423.517 706.263 425.835 705.314 427.342C704.916 427.103 704.672 426.702 704.346 426.305C706.376 422.875 707.026 422.621 705.469 419.113C703.519 421.958 702.495 423.952 699.364 425.581Z" fill="#3E92FD"/>
@@ -104,18 +104,18 @@
     <path d="M1030.78 365.102C1031.81 365.163 1036.43 364.504 1037.73 364.343L1037.79 365.211C1034.54 367.871 1031.12 379.327 1027.33 383.75C1018.13 394.479 1007.61 403.076 999.842 415.096C994.103 423.655 983.349 430.438 983.48 442.558C983.427 446.681 983.06 449.631 985.667 452.593C989.746 453.926 999.305 452.607 1000.09 453.524C992.494 453.625 958.286 452.535 954.427 455.106L895.974 455.065C881.109 455.03 864.308 453.932 849.834 457.33C813.751 465.801 794.762 500.641 813.233 534.352L812.774 535.307C812.792 537.686 814.856 539.989 816.32 542.108C806.185 532.925 799.365 522.566 797.109 508.701C788.218 454.079 839.606 420.557 884.015 403.079C930.535 384.772 981.255 374.46 1030.78 365.102Z" fill="url(#gradient_9)"/>
     <path d="M1230.76 562.239C1245.6 562.496 1265.47 561.389 1279.49 562.714C1278.95 563.057 1277.87 563.792 1277.25 563.767C1262.99 563.186 1224.95 566.567 1212.63 564.769C1218 563.473 1225.24 566.445 1230.76 562.239Z" fill="#3E92FD" fill-opacity="0.98823529"/></g>
 
-    <text x="44" y="182" fill="#e9edf5" font-family="Georgia, Times New Roman, serif" font-size="34" font-weight="500">Antony Saleeb</text>
-    <text x="44" y="210" fill="#3b9dff" font-family="Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="3.6">FULL-STACK  ·  APPLIED AI</text>
-    <text x="44" y="232" fill="#8b93a7" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.8">Open to roles &amp; collaborations</text>
+    <text x="44" y="188" fill="#e9edf5" font-family="Georgia, Times New Roman, serif" font-size="34" font-weight="500">Antony Saleeb</text>
+    <text x="44" y="216" fill="#3b9dff" font-family="Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="3.6">FULL-STACK  ·  APPLIED AI</text>
+    <text x="44" y="242" fill="#8b93a7" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.8">Open to roles &amp; collaborations</text>
 
-    <line x1="548" y1="86" x2="548" y2="278" stroke="url(#rule)" stroke-width="1"/>
+    <line x1="538" y1="84" x2="538" y2="300" stroke="url(#rule)" stroke-width="1"/>
 
-    <text x="576" y="108" fill="#3b9dff" font-family="Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="7.5">CONNECT</text>
-    <text x="576" y="132" fill="#c5ccd8" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic">Direct. No gatekeeping.</text>
+    <text x="560" y="102" fill="#c5ccd8" font-family="Georgia, Times New Roman, serif" font-size="15" font-style="italic">Direct. No gatekeeping.</text>
 
-    <g font-family="Consolas, Menlo, monospace">
-      <rect x="576" y="148" width="260" height="1" fill="#e9edf5" fill-opacity="0.08"/>
-      <g transform="translate(573.68 154.66) scale(0.01592)"><path d="M209.616 633.822C213.821 626.598 220.235 617.562 224.966 610.488L253.212 568.214L342.769 433.664L484.55 220.62C508.238 184.906 531.977 147.525 556.128 112.383C565.4 124.747 574.977 139.283 583.796 152.131L626.52 214.348C664.659 269.75 702.353 325.458 739.598 381.466C735.848 384.516 731.53 388.93 727.988 392.359C720.522 401.723 713.78 411.237 708.163 421.843C707.276 423.517 706.263 425.835 705.314 427.342C693.935 455.85 691.9 470.026 689.689 500.174L682.742 488.44C676.501 479.098 666.026 462.927 660.933 453.268C651.386 440.359 635.708 413.491 626.635 399.104C603.558 362.095 580.029 325.369 556.053 288.936C547.42 303.09 536.411 319.168 527.274 333.255L459.591 436.78C457.415 436.788 456.085 437.011 454.374 438.418C446.229 445.109 438.073 452.081 429.94 458.774L375.227 503.421L221.535 626.276C218.935 628.379 212.21 634.896 209.616 633.822Z" fill="#F4F4F4"/>
+    
+    <rect x="560" y="118" width="276" height="42" rx="11" fill="#3b9dff" fill-opacity="0.1" stroke="url(#accent)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <rect x="568" y="124" width="30" height="30" rx="8" fill="#06080d" fill-opacity="0.72" stroke="#e9edf5" stroke-opacity="0.08"/>
+    <g transform="translate(565.65 127.55) scale(0.01715)"><path d="M209.616 633.822C213.821 626.598 220.235 617.562 224.966 610.488L253.212 568.214L342.769 433.664L484.55 220.62C508.238 184.906 531.977 147.525 556.128 112.383C565.4 124.747 574.977 139.283 583.796 152.131L626.52 214.348C664.659 269.75 702.353 325.458 739.598 381.466C735.848 384.516 731.53 388.93 727.988 392.359C720.522 401.723 713.78 411.237 708.163 421.843C707.276 423.517 706.263 425.835 705.314 427.342C693.935 455.85 691.9 470.026 689.689 500.174L682.742 488.44C676.501 479.098 666.026 462.927 660.933 453.268C651.386 440.359 635.708 413.491 626.635 399.104C603.558 362.095 580.029 325.369 556.053 288.936C547.42 303.09 536.411 319.168 527.274 333.255L459.591 436.78C457.415 436.788 456.085 437.011 454.374 438.418C446.229 445.109 438.073 452.081 429.94 458.774L375.227 503.421L221.535 626.276C218.935 628.379 212.21 634.896 209.616 633.822Z" fill="#F4F4F4"/>
     <path d="M699.364 425.581C702.495 423.952 703.519 421.958 705.469 419.113C707.026 422.621 706.376 422.875 704.346 426.305C704.672 426.702 704.916 427.103 705.314 427.342C693.935 455.85 691.9 470.026 689.689 500.174L682.742 488.44C683.064 486.654 683.293 476.833 683.54 473.918C684.619 461.224 687.098 452.933 691.337 441.048C694.109 435.012 695.961 431.27 699.364 425.581Z" fill="#0C5AF5"/>
     <path d="M660.933 453.268C664.315 454.727 664.5 456.682 667.034 459.318C668.108 458.983 668.603 458.799 669.597 458.321L670.478 457.894L671.62 458.32C669.658 460.18 668.925 460.228 668.471 462.527C672.727 460.598 676.309 460.252 680.694 457.567C687.006 453.702 686.315 444.553 691.337 441.048C687.098 452.933 684.619 461.224 683.54 473.918C683.293 476.833 683.064 486.654 682.742 488.44C676.501 479.098 666.026 462.927 660.933 453.268Z" fill="#9BC5FC"/>
     <path d="M699.364 425.581C705.732 413.655 717.743 400.95 727.988 392.359C720.522 401.723 713.78 411.237 708.163 421.843C707.276 423.517 706.263 425.835 705.314 427.342C704.916 427.103 704.672 426.702 704.346 426.305C706.376 422.875 707.026 422.621 705.469 419.113C703.519 421.958 702.495 423.952 699.364 425.581Z" fill="#3E92FD"/>
@@ -133,27 +133,44 @@
     <path d="M1038.28 346.789C1070.05 346.564 1109.52 345.708 1140.96 346.799C1143.8 348.744 1146.6 346.912 1149.14 348.206C1122.02 351.007 1095 354.592 1068.09 358.957C1063.12 359.715 1041.56 362.957 1037.73 364.343C1036.43 364.504 1031.81 365.163 1030.78 365.102C1028.23 364.432 1023.75 365.172 1020.85 365.422C1022.65 348.918 1021.35 347.874 1039.85 348.007C1040.66 348.013 1040.24 347.793 1041.57 348.2L1042.01 347.915L1038.28 346.789Z" fill="#9BC5FC"/>
     <path d="M1030.78 365.102C1031.81 365.163 1036.43 364.504 1037.73 364.343L1037.79 365.211C1034.54 367.871 1031.12 379.327 1027.33 383.75C1018.13 394.479 1007.61 403.076 999.842 415.096C994.103 423.655 983.349 430.438 983.48 442.558C983.427 446.681 983.06 449.631 985.667 452.593C989.746 453.926 999.305 452.607 1000.09 453.524C992.494 453.625 958.286 452.535 954.427 455.106L895.974 455.065C881.109 455.03 864.308 453.932 849.834 457.33C813.751 465.801 794.762 500.641 813.233 534.352L812.774 535.307C812.792 537.686 814.856 539.989 816.32 542.108C806.185 532.925 799.365 522.566 797.109 508.701C788.218 454.079 839.606 420.557 884.015 403.079C930.535 384.772 981.255 374.46 1030.78 365.102Z" fill="url(#gradient_9)"/>
     <path d="M1230.76 562.239C1245.6 562.496 1265.47 561.389 1279.49 562.714C1278.95 563.057 1277.87 563.792 1277.25 563.767C1262.99 563.186 1224.95 566.567 1212.63 564.769C1218 563.473 1225.24 566.445 1230.76 562.239Z" fill="#3E92FD" fill-opacity="0.98823529"/></g>
-      <text x="610" y="172" fill="#6b7280" font-size="9" font-weight="700" letter-spacing="2.2">PORTFOLIO</text>
-      <text x="836" y="172" text-anchor="end" fill="#e9edf5" font-size="11">live site</text>
-
-      <rect x="576" y="182" width="260" height="1" fill="#e9edf5" fill-opacity="0.08"/>
-      <path fill="#8b93a7" transform="translate(576,191) scale(0.62)" d="M12 .5C5.73.5.5 5.73.5 12c0 5.09 3.29 9.4 7.86 10.93.57.1.78-.25.78-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.87-1.36-3.87-1.36-.53-1.33-1.29-1.68-1.29-1.68-1.05-.72.08-.7.08-.7 1.16.08 1.78 1.2 1.78 1.2 1.03 1.77 2.71 1.26 3.37.96.1-.74.4-1.26.72-1.55-2.56-.29-5.25-1.28-5.25-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18.92-.26 1.9-.38 2.88-.39.98.01 1.96.13 2.88.39 2.21-1.49 3.18-1.18 3.18-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.43-2.7 5.41-5.27 5.7.42.36.78 1.06.78 2.15 0 1.56-.01 2.81-.01 3.19 0 .3.2.66.79.55A11.5 11.5 0 0 0 23.5 12c0-6.27-5.23-11.5-11.5-11.5z"/>
-      <text x="610" y="206" fill="#6b7280" font-size="9" font-weight="700" letter-spacing="2.2">GITHUB</text>
-      <text x="836" y="206" text-anchor="end" fill="#e9edf5" font-size="11">tony-saleeb</text>
-
-      <rect x="576" y="216" width="260" height="1" fill="#e9edf5" fill-opacity="0.08"/>
-      <path fill="#8b93a7" transform="translate(576,225) scale(0.62)" d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.8 0 0 .78 0 1.75v20.5C0 23.22.8 24 1.77 24h20.45c.98 0 1.78-.78 1.78-1.75V1.75C24 .78 23.2 0 22.22 0z"/>
-      <text x="610" y="240" fill="#6b7280" font-size="9" font-weight="700" letter-spacing="2.2">LINKEDIN</text>
-      <text x="836" y="240" text-anchor="end" fill="#e9edf5" font-size="11">antony-saleeb</text>
-
-      <rect x="576" y="250" width="260" height="1" fill="#e9edf5" fill-opacity="0.08"/>
-      <path fill="none" stroke="#8b93a7" stroke-width="1.4" stroke-linejoin="round" d="M576 259h15v10H576z"/>
-      <path fill="none" stroke="#8b93a7" stroke-width="1.4" stroke-linejoin="round" d="M576 259l7.5 5.5L591 259"/>
-      <text x="610" y="274" fill="#6b7280" font-size="9" font-weight="700" letter-spacing="2.2">EMAIL</text>
-      <text x="836" y="274" text-anchor="end" fill="#e9edf5" font-size="11">tonysaleeb23</text>
+    <text x="608" y="135" fill="#6b7280" font-family="Consolas, Menlo, monospace" font-size="8.5" font-weight="700" letter-spacing="2">PORTFOLIO</text>
+    <text x="608" y="151" fill="#e9edf5" font-family="Georgia, Times New Roman, serif" font-size="13">View the live site</text>
+    <g transform="translate(816 139)" stroke="#3b9dff" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-5 5L5-5M5-5H-1.5M5-5V1.5"/>
     </g>
+  
+    
+    <rect x="560" y="166" width="276" height="42" rx="11" fill="#e9edf5" fill-opacity="0.045" stroke="#e9edf5" stroke-opacity="0.1" stroke-width="1"/>
+    <rect x="568" y="172" width="30" height="30" rx="8" fill="#06080d" fill-opacity="0.72" stroke="#e9edf5" stroke-opacity="0.08"/>
+    <path fill="#8b93a7" transform="translate(574.84 178.84) scale(0.68)" d="M12 .5C5.73.5.5 5.73.5 12c0 5.09 3.29 9.4 7.86 10.93.57.1.78-.25.78-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.87-1.36-3.87-1.36-.53-1.33-1.29-1.68-1.29-1.68-1.05-.72.08-.7.08-.7 1.16.08 1.78 1.2 1.78 1.2 1.03 1.77 2.71 1.26 3.37.96.1-.74.4-1.26.72-1.55-2.56-.29-5.25-1.28-5.25-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18.92-.26 1.9-.38 2.88-.39.98.01 1.96.13 2.88.39 2.21-1.49 3.18-1.18 3.18-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.43-2.7 5.41-5.27 5.7.42.36.78 1.06.78 2.15 0 1.56-.01 2.81-.01 3.19 0 .3.2.66.79.55A11.5 11.5 0 0 0 23.5 12c0-6.27-5.23-11.5-11.5-11.5z"/>
+    <text x="608" y="183" fill="#6b7280" font-family="Consolas, Menlo, monospace" font-size="8.5" font-weight="700" letter-spacing="2">GITHUB</text>
+    <text x="608" y="199" fill="#e9edf5" font-family="Georgia, Times New Roman, serif" font-size="13">tony-saleeb</text>
+    <g transform="translate(816 187)" stroke="#6b7280" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-5 5L5-5M5-5H-1.5M5-5V1.5"/>
+    </g>
+  
+    
+    <rect x="560" y="214" width="276" height="42" rx="11" fill="#e9edf5" fill-opacity="0.045" stroke="#e9edf5" stroke-opacity="0.1" stroke-width="1"/>
+    <rect x="568" y="220" width="30" height="30" rx="8" fill="#06080d" fill-opacity="0.72" stroke="#e9edf5" stroke-opacity="0.08"/>
+    <path fill="#8b93a7" transform="translate(574.84 226.84) scale(0.68)" d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.8 0 0 .78 0 1.75v20.5C0 23.22.8 24 1.77 24h20.45c.98 0 1.78-.78 1.78-1.75V1.75C24 .78 23.2 0 22.22 0z"/>
+    <text x="608" y="231" fill="#6b7280" font-family="Consolas, Menlo, monospace" font-size="8.5" font-weight="700" letter-spacing="2">LINKEDIN</text>
+    <text x="608" y="247" fill="#e9edf5" font-family="Georgia, Times New Roman, serif" font-size="13">antony-saleeb</text>
+    <g transform="translate(816 235)" stroke="#6b7280" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-5 5L5-5M5-5H-1.5M5-5V1.5"/>
+    </g>
+  
+    
+    <rect x="560" y="262" width="276" height="42" rx="11" fill="#e9edf5" fill-opacity="0.045" stroke="#e9edf5" stroke-opacity="0.1" stroke-width="1"/>
+    <rect x="568" y="268" width="30" height="30" rx="8" fill="#06080d" fill-opacity="0.72" stroke="#e9edf5" stroke-opacity="0.08"/>
+    <g transform="translate(576 278)" fill="none" stroke="#8b93a7" stroke-width="1.35" stroke-linejoin="round"><rect width="14" height="10" rx="1.3"/><path d="M0 0l7 5.2L14 0"/></g>
+    <text x="608" y="279" fill="#6b7280" font-family="Consolas, Menlo, monospace" font-size="8.5" font-weight="700" letter-spacing="2">EMAIL</text>
+    <text x="608" y="295" fill="#e9edf5" font-family="Georgia, Times New Roman, serif" font-size="13">tonysaleeb23@gmail.com</text>
+    <g transform="translate(816 283)" stroke="#6b7280" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-5 5L5-5M5-5H-1.5M5-5V1.5"/>
+    </g>
+  
   </g>
 
-  <rect x="1" y="1" width="878" height="306" rx="19" fill="none" stroke="#e9edf5" stroke-opacity="0.1" stroke-width="1"/>
-  <rect x="1" y="1" width="878" height="306" rx="19" fill="none" stroke="url(#accent)" stroke-opacity="0.55" stroke-width="1.25"/>
+  <rect x="1" y="1" width="878" height="326" rx="19" fill="none" stroke="#e9edf5" stroke-opacity="0.1" stroke-width="1"/>
+  <rect x="1" y="1" width="878" height="326" rx="19" fill="none" stroke="url(#accent)" stroke-opacity="0.55" stroke-width="1.25"/>
 </svg>
