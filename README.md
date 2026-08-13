@@ -45,22 +45,15 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 <p align="center">
   <a href="https://antony-saleeb-portfolio.vercel.app/">
-    <img src="./assets/connect/as.png" width="40" height="40" alt="AS" />
+    <img src="./assets/connect/contact-panel.svg" width="720" alt="Antony Saleeb — Full-Stack and Applied-AI Engineer" />
   </a>
 </p>
 
 <p align="center">
-  <img src="./assets/connect/rule.svg" alt="" />
-</p>
-
-<p align="center">
-  <a href="https://antony-saleeb-portfolio.vercel.app/">Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/tony-saleeb">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:tonysaleeb23@gmail.com">Email</a>
+  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="./assets/connect/link-portfolio.svg" height="44" alt="Portfolio" /></a>
+  <a href="https://github.com/tony-saleeb"><img src="./assets/connect/link-github.svg" height="44" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a"><img src="./assets/connect/link-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="mailto:tonysaleeb23@gmail.com"><img src="./assets/connect/link-email.svg" height="44" alt="Email" /></a>
 </p>
 
 <picture>

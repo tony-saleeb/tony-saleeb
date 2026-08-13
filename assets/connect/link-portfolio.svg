@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="44" viewBox="0 0 172 44" role="img" aria-label="Portfolio">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b9dff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="170" height="42" rx="9" fill="#0b0f17" stroke="url(#a)" stroke-width="1.5"/>
+  <image href="as.png" x="12" y="10" width="24" height="24"/>
+  <text x="88" y="27" text-anchor="middle" fill="#e9edf5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="2.8">PORTFOLIO</text>
+  <path fill="#3b9dff" d="M148 22l-5 5v-3h-4v-4h4v-3l5 5z"/>
+</svg>
