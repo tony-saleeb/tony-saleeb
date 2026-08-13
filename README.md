@@ -50,9 +50,7 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 ### Connect With Me
 
 <p align="center">
-  <a href="https://antony-saleeb-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Antony%20Saleeb-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="https://antony-saleeb-portfolio.vercel.app/icon.png" height="28" alt="AS" /><img src="https://img.shields.io/badge/Portfolio-Antony%20Saleeb-000000?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://github.com/tony-saleeb">
     <img src="https://img.shields.io/badge/GitHub-tony--saleeb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
