@@ -43,24 +43,25 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 ---
 
-<br />
-
-<h3 align="center">CONNECT</h3>
-<p align="center">Cairo · Open to roles</p>
-<p align="center">Direct — no form, no gatekeeping.</p>
-
 <p align="center">
-  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="./assets/connect/as.png" height="42" alt="AS" /><img src="./assets/connect/portfolio.svg" alt="Portfolio" /></a>
-  <a href="https://github.com/tony-saleeb"><img src="./assets/connect/github.svg" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a"><img src="./assets/connect/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:tonysaleeb23@gmail.com"><img src="./assets/connect/email.svg" alt="Email" /></a>
+  <a href="https://antony-saleeb-portfolio.vercel.app/">
+    <img src="./assets/connect/as.png" width="40" height="40" alt="AS" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:tonysaleeb23@gmail.com">tonysaleeb23@gmail.com</a>
+  <img src="./assets/connect/rule.svg" alt="" />
 </p>
 
-<br />
+<p align="center">
+  <a href="https://antony-saleeb-portfolio.vercel.app/">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/tony-saleeb">GitHub</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:tonysaleeb23@gmail.com">Email</a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/output/github-snake-dark.svg" />
