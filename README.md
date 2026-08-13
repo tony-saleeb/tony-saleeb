@@ -45,16 +45,12 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 <br />
 
-<p align="center">
-  <img src="./assets/connect/header.svg" alt="Connect — Cairo, open to roles" />
-</p>
+<h3 align="center">CONNECT</h3>
+<p align="center">Cairo · Open to roles</p>
+<p align="center">Direct — no form, no gatekeeping.</p>
 
 <p align="center">
-  Direct — no form, no gatekeeping.
-</p>
-
-<p align="center">
-  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="./assets/connect/portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="./assets/connect/as.png" height="42" alt="AS" /><img src="./assets/connect/portfolio.svg" alt="Portfolio" /></a>
   <a href="https://github.com/tony-saleeb"><img src="./assets/connect/github.svg" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a"><img src="./assets/connect/linkedin.svg" alt="LinkedIn" /></a>
   <a href="mailto:tonysaleeb23@gmail.com"><img src="./assets/connect/email.svg" alt="Email" /></a>
