@@ -42,13 +42,6 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <filter id="tinyGlow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="3.5" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
     <filter id="grain">
       <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.045 0"/>
@@ -74,9 +67,20 @@
     <path d="M28 22h22M28 22v22M852 22h-22M852 22v22M28 286h22M28 286v-22M852 286h-22M852 286v-22" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="1.25" fill="none"/>
 
     <text x="44" y="48" fill="#3b9dff" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="4.2">01  /  CONNECT</text>
-    <circle cx="742" cy="43" r="7" fill="#3b9dff" fill-opacity="0.18"/>
-    <circle cx="742" cy="43" r="3.2" fill="#3b9dff" filter="url(#tinyGlow)"/>
-    <text x="756" y="47" fill="#8b93a7" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="2.4">CAIRO · EG</text>
+    <g transform="translate(724, 36)">
+      <clipPath id="flagClip"><rect width="20" height="13" rx="1.6"/></clipPath>
+      <g clip-path="url(#flagClip)">
+        <rect width="20" height="13" fill="#CE1126"/>
+        <rect y="4.35" width="20" height="4.3" fill="#F5F5F5"/>
+        <rect y="8.65" width="20" height="4.35" fill="#111111"/>
+        <g transform="translate(7.1, 4.55)" fill="#C09300">
+          <path d="M2.9 0L4.6.9 5.8 2.4 4.9 3.9 2.9 4.5 0.9 3.9 0 2.4 1.2.9Z"/>
+          <rect x="2.35" y="2.1" width="1.1" height="1.7" rx="0.2"/>
+        </g>
+      </g>
+      <rect width="20" height="13" rx="1.6" fill="none" stroke="#e9edf5" stroke-opacity="0.22" stroke-width="0.7"/>
+    </g>
+    <text x="750" y="47" fill="#8b93a7" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="2.4">CAIRO · EG</text>
 
     <line x1="44" y1="64" x2="836" y2="64" stroke="#e9edf5" stroke-opacity="0.08" stroke-width="1"/>
     <line x1="44" y1="64" x2="210" y2="64" stroke="url(#accent)" stroke-opacity="0.7" stroke-width="1.5"/>
@@ -103,11 +107,6 @@
     <text x="44" y="182" fill="#e9edf5" font-family="Georgia, Times New Roman, serif" font-size="34" font-weight="500">Antony Saleeb</text>
     <text x="44" y="210" fill="#3b9dff" font-family="Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="3.6">FULL-STACK  ·  APPLIED AI</text>
     <text x="44" y="232" fill="#8b93a7" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.8">Open to roles &amp; collaborations</text>
-
-    <rect x="44" y="250" width="178" height="22" rx="11" fill="#3b9dff" fill-opacity="0.1" stroke="#3b9dff" stroke-opacity="0.42"/>
-    <circle cx="60" cy="261" r="6" fill="#34d399" fill-opacity="0.22"/>
-    <circle cx="60" cy="261" r="3.2" fill="#34d399" filter="url(#tinyGlow)"/>
-    <text x="72" y="265" fill="#e9edf5" font-family="Consolas, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.6">AVAILABLE FOR WORK</text>
 
     <line x1="548" y1="86" x2="548" y2="278" stroke="url(#rule)" stroke-width="1"/>
 
