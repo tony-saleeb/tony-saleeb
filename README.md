@@ -45,15 +45,18 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 <p align="center">
   <a href="https://antony-saleeb-portfolio.vercel.app/">
-    <img src="./assets/connect/contact-panel.svg" width="720" alt="Antony Saleeb — Full-Stack and Applied-AI Engineer" />
+    <img src="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/main/assets/connect/contact-panel.svg" width="720" alt="Antony Saleeb - Full-Stack and Applied-AI Engineer" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="./assets/connect/link-portfolio.svg" height="44" alt="Portfolio" /></a>
-  <a href="https://github.com/tony-saleeb"><img src="./assets/connect/link-github.svg" height="44" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a"><img src="./assets/connect/link-linkedin.svg" height="44" alt="LinkedIn" /></a>
-  <a href="mailto:tonysaleeb23@gmail.com"><img src="./assets/connect/link-email.svg" height="44" alt="Email" /></a>
+  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/main/assets/connect/link-portfolio.svg" height="44" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/tony-saleeb"><img src="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/main/assets/connect/link-github.svg" height="44" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a"><img src="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/main/assets/connect/link-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:tonysaleeb23@gmail.com"><img src="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/main/assets/connect/link-email.svg" height="44" alt="Email" /></a>
 </p>
 
 <picture>

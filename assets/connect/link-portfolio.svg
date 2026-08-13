@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="172" height="44" viewBox="0 0 172 44" role="img" aria-label="Portfolio">
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="44" viewBox="0 0 172 44">
   <defs>
     <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#3b9dff"/>
@@ -6,7 +6,7 @@
     </linearGradient>
   </defs>
   <rect x="1" y="1" width="170" height="42" rx="9" fill="#0b0f17" stroke="url(#a)" stroke-width="1.5"/>
-  <image href="as.png" x="12" y="10" width="24" height="24"/>
-  <text x="88" y="27" text-anchor="middle" fill="#e9edf5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="2.8">PORTFOLIO</text>
+  <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAADlklEQVRYhe2Uf2gbZRjHC2o3l4ROsa2gU4fIHNtfzh8oo1aZW8Va5zRdc41Gp7T7Yzr/0AzdrILNWpyzrM75a2PMwsA4tA4togx1w05Gq3OGJJea5JImxPTMz/feS+7e9+4rwQqubuscWkHygQeO93l4vt/3e8fV1FSpUqXK34BSepuiKGtq/gsAzFMUxUcISebz+cvn3AAhZLuiKJiug3MqTim9hRDCCCEGIUSvmCgWiw/PafTK7zffRQjpnX6eIoQ0/OsGCCGeiiAhJALAAmC+oijB6bP3AKzMUONI5FdWGo9xDP/A8OZXHNuGDWzYb2DNayZaBkws2myi/gkT1vVAowB9bR9WzCpOKb15OnqdELLqj/Nisdg0lVHMVI69XFA5j8gcI6c43jnKseNzjp5hDtc+A/e+bqLtDQPXPGOi/kkTtg6g3mHwtj696Xyj/4kQkslkMr0z+97R0kGq83CqwHE0xE8dPsmfHTquOXd/qXV6PuXOLR9y56Yh7nTt5Z0dg9xp38mdaz3c2e7B8vONvjeXy4npdPpENputm9kfS2LBVJHzn6c4jgT44zX/JJTSFbIsH0skEjSdTvuz2ay3UCh4VVX16rruBSBU5qIyP/bjJMc3IZboO6x/0fsZ+8UzwrLbhpns2s+SrbtZsnknSy7awsfruvhxyyP6RxY7u+ec4j6frzYWix2Kx+NIpVKQZRm5XK7ywaFUKoEx5gdgrcwGEljybZjFh0a10Ftfc/R8YqDrgIHWQRM3eUws38qw9DkNVz2loWGjBtsGA/PaTVzSpm0/q4FQKOSRJAmTk5OxVCplz2Qy9nw+b1dV1a5pmh3AdX+eH43j0u595Z71g/oHLa/qI7e/xEeWvcC/u9HNgtc/rQUXd5eCVz9Gg1d2FONXrMvrFoeOi+4z+BnFRVG8NRwOM0mSzGQyee6oLoCFDvVFq0BxcZsJy4M4/R8SjUbni6Loi0QiiMfje8604K4d6rV395fdlWruL7ub+svulZ6y+45Xyu4bNmsOi0BWna1sDnq/1UFPVgzUrmPkL8v9fv+uiYkJSJIUlWXZNrPfuKm0ePWATh/aa+CBd020vm2iZY+JOwcMLNuqY6FLRWX5rNWparXt+vOnLQ8EAktEUTwRDofHotFo80zxOiF/mUVQPrYJdLyhq+Rv3FiWGrpLyToXlSyCEp6trAL93irQMauDvr/g0dLqC3uBVapU+b/yG1m5vIkl+02xAAAAAElFTkSuQmCC" x="12" y="10" width="24" height="24"/>
+  <text x="96" y="27" text-anchor="middle" fill="#e9edf5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="2.8">PORTFOLIO</text>
   <path fill="#3b9dff" d="M148 22l-5 5v-3h-4v-4h4v-3l5 5z"/>
 </svg>

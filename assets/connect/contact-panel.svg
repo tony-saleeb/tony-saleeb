@@ -1,33 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="156" viewBox="0 0 720 156" role="img" aria-label="Antony Saleeb  Full-Stack and Applied-AI Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="168" viewBox="0 0 720 168">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="156" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0b0f17"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="168" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#10151f"/>
+      <stop offset="0.55" stop-color="#070a10"/>
       <stop offset="1" stop-color="#06080d"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#3b9dff"/>
       <stop offset="1" stop-color="#22d3ee"/>
     </linearGradient>
-    <radialGradient id="glow" cx="88%" cy="8%" r="55%">
-      <stop offset="0" stop-color="#3b9dff" stop-opacity="0.22"/>
+    <radialGradient id="glow" cx="92%" cy="0%" r="60%">
+      <stop offset="0" stop-color="#3b9dff" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#3b9dff" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow2" cx="12%" cy="92%" r="40%">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
-    </radialGradient>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.75" fill="#e9edf5" opacity="0.06"/>
+    </pattern>
+    <clipPath id="round">
+      <rect width="720" height="168" rx="16"/>
+    </clipPath>
   </defs>
-  <rect width="720" height="156" rx="14" fill="url(#bg)"/>
-  <rect width="720" height="156" rx="14" fill="url(#glow)"/>
-  <rect width="720" height="156" rx="14" fill="url(#glow2)"/>
-  <rect x="1" y="1" width="718" height="154" rx="13" fill="none" stroke="#e9edf5" stroke-opacity="0.1" stroke-width="1"/>
-  <rect x="1" y="1" width="718" height="154" rx="13" fill="none" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1"/>
-  <line x1="28" y1="124" x2="692" y2="124" stroke="url(#accent)" stroke-opacity="0.2" stroke-width="1"/>
-  <image xlink:href="as.png" x="32" y="34" width="56" height="56"/>
-  <text x="108" y="62" fill="#e9edf5" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="500">Antony Saleeb</text>
-  <text x="108" y="82" fill="#3b9dff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="3.2">FULL-STACK · APPLIED AI</text>
-  <text x="108" y="104" fill="#8b93a7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.4">CAIRO · OPEN TO ROLES &amp; COLLABORATIONS</text>
-  <text x="548" y="58" fill="#3b9dff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="7">CONNECT</text>
-  <line x1="508" y1="72" x2="688" y2="72" stroke="url(#accent)" stroke-opacity="0.55" stroke-width="1.5"/>
-  <text x="548" y="98" fill="#6b7280" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic">Direct. No gatekeeping.</text>
+  <g clip-path="url(#round)">
+    <rect width="720" height="168" fill="url(#bg)"/>
+    <rect width="720" height="168" fill="url(#glow)"/>
+    <rect width="720" height="168" fill="url(#grid)"/>
+    <rect x="1" y="1" width="718" height="166" rx="15" fill="none" stroke="#e9edf5" stroke-opacity="0.08" stroke-width="1"/>
+    <rect x="1" y="1" width="718" height="166" rx="15" fill="none" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="1"/>
+    <path d="M24 28h28M24 28v28M692 28h-28M692 28v28M24 140h28M24 140v-28M692 140h-28M692 140v-28" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.2"/>
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAADlklEQVRYhe2Uf2gbZRjHC2o3l4ROsa2gU4fIHNtfzh8oo1aZW8Va5zRdc41Gp7T7Yzr/0AzdrILNWpyzrM75a2PMwsA4tA4togx1w05Gq3OGJJea5JImxPTMz/feS+7e9+4rwQqubuscWkHygQeO93l4vt/3e8fV1FSpUqXK34BSepuiKGtq/gsAzFMUxUcISebz+cvn3AAhZLuiKJiug3MqTim9hRDCCCEGIUSvmCgWiw/PafTK7zffRQjpnX6eIoQ0/OsGCCGeiiAhJALAAmC+oijB6bP3AKzMUONI5FdWGo9xDP/A8OZXHNuGDWzYb2DNayZaBkws2myi/gkT1vVAowB9bR9WzCpOKb15OnqdELLqj/Nisdg0lVHMVI69XFA5j8gcI6c43jnKseNzjp5hDtc+A/e+bqLtDQPXPGOi/kkTtg6g3mHwtj696Xyj/4kQkslkMr0z+97R0kGq83CqwHE0xE8dPsmfHTquOXd/qXV6PuXOLR9y56Yh7nTt5Z0dg9xp38mdaz3c2e7B8vONvjeXy4npdPpENputm9kfS2LBVJHzn6c4jgT44zX/JJTSFbIsH0skEjSdTvuz2ay3UCh4VVX16rruBSBU5qIyP/bjJMc3IZboO6x/0fsZ+8UzwrLbhpns2s+SrbtZsnknSy7awsfruvhxyyP6RxY7u+ec4j6frzYWix2Kx+NIpVKQZRm5XK7ywaFUKoEx5gdgrcwGEljybZjFh0a10Ftfc/R8YqDrgIHWQRM3eUws38qw9DkNVz2loWGjBtsGA/PaTVzSpm0/q4FQKOSRJAmTk5OxVCplz2Qy9nw+b1dV1a5pmh3AdX+eH43j0u595Z71g/oHLa/qI7e/xEeWvcC/u9HNgtc/rQUXd5eCVz9Gg1d2FONXrMvrFoeOi+4z+BnFRVG8NRwOM0mSzGQyee6oLoCFDvVFq0BxcZsJy4M4/R8SjUbni6Loi0QiiMfje8604K4d6rV395fdlWruL7ub+svulZ6y+45Xyu4bNmsOi0BWna1sDnq/1UFPVgzUrmPkL8v9fv+uiYkJSJIUlWXZNrPfuKm0ePWATh/aa+CBd020vm2iZY+JOwcMLNuqY6FLRWX5rNWparXt+vOnLQ8EAktEUTwRDofHotFo80zxOiF/mUVQPrYJdLyhq+Rv3FiWGrpLyToXlSyCEp6trAL93irQMauDvr/g0dLqC3uBVapU+b/yG1m5vIkl+02xAAAAAElFTkSuQmCC" x="40" y="44" width="64" height="64"/>
+    <rect x="40" y="44" width="64" height="64" rx="14" fill="none" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1"/>
+    <text x="120" y="72" fill="#e9edf5" font-family="Georgia, Times New Roman, serif" font-size="26" font-weight="500">Antony Saleeb</text>
+    <text x="120" y="96" fill="#3b9dff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="3.5">FULL-STACK &#183; APPLIED AI</text>
+    <text x="120" y="118" fill="#8b93a7" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.2">CAIRO &#183; OPEN TO ROLES AND COLLABORATIONS</text>
+    <rect x="120" y="128" width="118" height="22" rx="11" fill="#3b9dff" fill-opacity="0.12" stroke="#3b9dff" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="134" cy="139" r="4" fill="#34d399"/>
+    <text x="146" y="143" fill="#e9edf5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" font-weight="600" letter-spacing="1.8">AVAILABLE FOR WORK</text>
+    <text x="520" y="64" fill="#3b9dff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="8">CONNECT</text>
+    <line x1="488" y1="78" x2="680" y2="78" stroke="url(#accent)" stroke-opacity="0.6" stroke-width="2"/>
+    <text x="520" y="108" fill="#9aa3b5" font-family="Georgia, Times New Roman, serif" font-size="15" font-style="italic">Direct. No gatekeeping.</text>
+    <text x="520" y="132" fill="#6b7280" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="2">PORTFOLIO &#183; GITHUB &#183; LINKEDIN &#183; EMAIL</text>
+    <line x1="40" y1="152" x2="680" y2="152" stroke="url(#accent)" stroke-opacity="0.18" stroke-width="1"/>
+  </g>
 </svg>
