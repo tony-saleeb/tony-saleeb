@@ -44,45 +44,28 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 ---
 
 <p align="center">
-  <img src="./assets/AS-logo.svg" width="140" alt="AS logo" />
+  <img src="https://antony-saleeb-portfolio.vercel.app/as-avatar.png" width="140" alt="AS logo" />
 </p>
 
 ### Connect With Me
+
 <p align="center">
-  <a href="https://antony-saleeb-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Antony%20Saleeb-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://antony-saleeb-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Antony%20Saleeb-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;
-  <a href="https://github.com/tony-saleeb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-tony--saleeb-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/tony-saleeb">
+    <img src="https://img.shields.io/badge/GitHub-tony--saleeb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Antony%20Saleeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a">
+    <img src="https://img.shields.io/badge/LinkedIn-Antony%20Saleeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:tonysaleeb23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-tonysaleeb23-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:tonysaleeb23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tonysaleeb23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-<!-- snake -->
-<div align="center">
-
-  
-</div>
-
-<!-- counter -->
-<div align="center">
-
-
-</div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tony-saleeb/tony-saleeb/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tony-saleeb/tony-saleeb/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/tony-saleeb/tony-saleeb/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/output/github-snake.svg" />
 </picture>
-
-
-
-
