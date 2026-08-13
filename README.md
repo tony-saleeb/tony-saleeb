@@ -43,7 +43,11 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 ---
 
-###  Connect With Me
+<p align="center">
+  <img src="./assets/AS-logo.svg" width="140" alt="AS logo" />
+</p>
+
+### Connect With Me
 <p align="center">
   <a href="https://antony-saleeb-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Antony%20Saleeb-000000?style=for-the-badge&logo=vercel&logoColor=white" />
