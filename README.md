@@ -43,24 +43,28 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 ---
 
-<p align="center">
-  <img src="https://antony-saleeb-portfolio.vercel.app/as-avatar.png" width="140" alt="AS logo" />
-</p>
-
-### Connect With Me
+<br />
 
 <p align="center">
-  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="https://antony-saleeb-portfolio.vercel.app/icon.png" height="28" alt="AS" /><img src="https://img.shields.io/badge/Portfolio-Antony%20Saleeb-000000?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://github.com/tony-saleeb">
-    <img src="https://img.shields.io/badge/GitHub-tony--saleeb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a">
-    <img src="https://img.shields.io/badge/LinkedIn-Antony%20Saleeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tonysaleeb23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tonysaleeb23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="./assets/connect/header.svg" alt="Connect — Cairo, open to roles" />
 </p>
+
+<p align="center">
+  Direct — no form, no gatekeeping.
+</p>
+
+<p align="center">
+  <a href="https://antony-saleeb-portfolio.vercel.app/"><img src="./assets/connect/portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://github.com/tony-saleeb"><img src="./assets/connect/github.svg" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/antony-saleeb-2588a625a"><img src="./assets/connect/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:tonysaleeb23@gmail.com"><img src="./assets/connect/email.svg" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:tonysaleeb23@gmail.com">tonysaleeb23@gmail.com</a>
+</p>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/output/github-snake-dark.svg" />
