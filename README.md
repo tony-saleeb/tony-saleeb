@@ -45,7 +45,7 @@ Whether it's an MVP, a dream app, or an experimental project, I’m always down 
 
 <p align="center">
   <a href="https://antony-saleeb-portfolio.vercel.app/">
-    <img src="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/main/assets/connect/contact-panel.svg" width="720" alt="Antony Saleeb - Full-Stack and Applied-AI Engineer" />
+    <img src="https://raw.githubusercontent.com/tony-saleeb/tony-saleeb/main/assets/connect/contact-panel.png" width="720" alt="Antony Saleeb" />
   </a>
 </p>
 
